@@ -48,8 +48,8 @@ examples and iterative adversarial training.
 
 ## Education
 
-- **M.Tech in Computer Science and Engineering**, IIT Delhi, 2023.
-- **B.Tech in Computer Science and Engineering**, NIT Hamirpur, 2005.
+- **M.Tech in Computer Science and Engineering**, IIT Delhi.
+- **B.Tech in Computer Science and Engineering**, NIT Hamirpur.
 
 ## Links
 
