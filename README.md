@@ -31,12 +31,12 @@ examples and iterative adversarial training.
 ## Selected Publications
 
 - **ImageNet-LC: Assessing Robustness under Localized Corruptions**. ICPR 2026.
-- **REMEDII: Robust Malware Detection with Iterative and Intelligent Adversarial Training**. ICISS 2024.
-- **Characterizing and Classifying Android Malware: A High-Level Feature Approach**. 2023. https://ieeexplore.ieee.org/document/10391357
-- **LFSR Next Bit Prediction through Deep Learning**. 2021.
-- **Malware Detection in PDF and Office Documents: A Survey**. Information Security Journal: A Global Perspective, 2020.
-- **Malware Characterization Using Windows API Call Sequences**. Journal of Cyber Security and Mobility, 2018.
-- **Impact of Machine Learning Algorithms on Analysis of Stream Ciphers**. 2009.
+- **REMEDII: Robust Malware Detection with Iterative and Intelligent Adversarial Training**. ICISS 2024. https://dl.acm.org/doi/10.1007/978-3-031-80020-7_14
+- **Characterizing and Classifying Android Malware: A High-Level Feature Approach**. 2023 International Conference on Quantum Technologies, Communications, Computing, Hardware and Embedded Systems Security (iQ-CCHESS). https://ieeexplore.ieee.org/document/10391357
+- **LFSR Next Bit Prediction through Deep Learning**. Journal of Informatics Electrical and Electronics Engineering, 2021. https://doi.org/10.54060/JIEEE/002.02.022
+- **Malware Detection in PDF and Office Documents: A Survey**. Information Security Journal: A Global Perspective, 2020. https://doi.org/10.1080/19393555.2020.1723747
+- **Malware Characterization Using Windows API Call Sequences**. Security, Privacy, and Applied Cryptography Engineering (SPACE 2016); Journal of Cyber Security and Mobility, 2018. https://link.springer.com/chapter/10.1007/978-3-319-49445-6_15
+- **Impact of Machine Learning Algorithms on Analysis of Stream Ciphers**. International Conference on Methods and Models in Computer Science (ICM2CS), 2009. https://ieeexplore.ieee.org/document/5397953
 
 ## Research Areas
 
