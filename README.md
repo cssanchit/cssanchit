@@ -32,7 +32,7 @@ examples and iterative adversarial training.
 
 - **ImageNet-LC: Assessing Robustness under Localized Corruptions**. ICPR 2026.
 - **REMEDII: Robust Malware Detection with Iterative and Intelligent Adversarial Training**. ICISS 2024.
-- **Characterizing and Classifying Android Malware: A High-Level Feature Approach**. 2023.
+- **Characterizing and Classifying Android Malware: A High-Level Feature Approach**. 2023. https://ieeexplore.ieee.org/document/10391357
 - **LFSR Next Bit Prediction through Deep Learning**. 2021.
 - **Malware Detection in PDF and Office Documents: A Survey**. Information Security Journal: A Global Perspective, 2020.
 - **Malware Characterization Using Windows API Call Sequences**. Journal of Cyber Security and Mobility, 2018.
