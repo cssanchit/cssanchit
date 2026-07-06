@@ -28,6 +28,15 @@ examples and iterative adversarial training.
 - Paper: https://dl.acm.org/doi/10.1007/978-3-031-80020-7_14
 - Code: https://github.com/cssanchit/REMEDII-Malware-Detection
 
+### face-recognition-transfer-attacks
+
+A reusable public repository of **CNN-based face-recognition transfer attacks** with
+paper references, adaptation notes, contributor credits, and attack-specific
+documentation. It is designed to help researchers and students inspect, reuse,
+and extend transfer attacks in the face-verification setting.
+
+- Repository: https://github.com/cssanchit/face-recognition-transfer-attacks
+
 ## Selected Publications
 
 - **ImageNet-LC: Assessing Robustness under Localized Corruptions**. ICPR 2026.
