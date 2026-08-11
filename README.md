@@ -6,14 +6,15 @@ systems under realistic adversarial and corrupted conditions.
 
 ## Featured Work
 
-### ImageNet-LC: Assessing Robustness under Localized Corruptions
+### ImageNet-LC: A Benchmark for Object-Centric Robustness Under Localized Corruptions
 
-**ICPR 2026**. To be presented in August 2026.
+**ICPR 2026**. First online: August 5, 2026.
 
 ImageNet-LC is an object-centric robustness benchmark for ImageNet. Instead of
 applying corruptions globally, it localizes foreground object regions and applies
 corruptions only inside those regions of interest.
 
+- Paper: https://link.springer.com/chapter/10.1007/978-3-032-31397-3_26
 - Official code: https://github.com/muskanny/ImageNet-LC
 - Repository pointer: https://github.com/cssanchit/ImageNet-LC
 - Dataset: https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc
@@ -39,7 +40,7 @@ and extend transfer attacks in the face-verification setting.
 
 ## Selected Publications
 
-- **ImageNet-LC: Assessing Robustness under Localized Corruptions**. ICPR 2026.
+- **ImageNet-LC: A Benchmark for Object-Centric Robustness Under Localized Corruptions**. ICPR 2026. https://link.springer.com/chapter/10.1007/978-3-032-31397-3_26
 - **REMEDII: Robust Malware Detection with Iterative and Intelligent Adversarial Training**. ICISS 2024. https://dl.acm.org/doi/10.1007/978-3-031-80020-7_14
 - **Characterizing and Classifying Android Malware: A High-Level Feature Approach**. 2023 International Conference on Quantum Technologies, Communications, Computing, Hardware and Embedded Systems Security (iQ-CCHESS). https://ieeexplore.ieee.org/document/10391357
 - **LFSR Next Bit Prediction through Deep Learning**. Journal of Informatics Electrical and Electronics Engineering, 2021. https://doi.org/10.54060/JIEEE/002.02.022
