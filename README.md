@@ -4,7 +4,7 @@
 
 **Machine Learning Security · Adversarial Robustness · Computer Vision**
 
-[Email](mailto:cs.sanchit@gmail.com) · [GitHub](https://github.com/cssanchit) · [Research & publications](#featured-research)
+[GitHub](https://github.com/cssanchit) · [Research & publications](#featured-research)
 
 </div>
 
@@ -12,8 +12,6 @@ I study how machine learning systems behave under adversarial attacks and visual
 corruptions, and how to make them more robust. My work spans face verification,
 malware detection, and computer vision benchmarks, with code and datasets that
 support further research.
-
-**Contact:** [cs.sanchit@gmail.com](mailto:cs.sanchit@gmail.com)
 
 [Featured research](#featured-research) · [Research code & data](#research-code--data) · [Publications](#selected-publications) · [Education](#education)
 
@@ -102,9 +100,6 @@ examples and iterative adversarial training.
 - **M.Tech, Computer Science and Engineering** — Indian Institute of Technology Delhi (IIT Delhi)
 - **B.Tech, Computer Science and Engineering** — National Institute of Technology Hamirpur (NIT Hamirpur)
 
-## Contact
-
-For research discussions and questions about my projects, reach me at
-**[cs.sanchit@gmail.com](mailto:cs.sanchit@gmail.com)**.
+## Links
 
 [GitHub](https://github.com/cssanchit) · [ImageNet-LC dataset on Kaggle](https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc)
