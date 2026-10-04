@@ -10,8 +10,6 @@ systems under realistic adversarial and corrupted conditions.
 
 **Accepted for presentation at ICISS 2026.**
 
-Sanchit Gupta, Vishakha Agrawal, Pratishtha Jaiswal, and Ananya Jain.
-
 FaceSM combines source separation and mirror-fused embeddings to improve the
 transferability of adversarial attacks on face verification systems. It supports
 impersonation and dodging through an objective that integrates with existing
@@ -54,7 +52,7 @@ and extend transfer attacks in the face-verification setting.
 
 ## Selected Publications
 
-- **FaceSM: Improving Transferable Adversarial Attacks via Source-Separated and Mirror-Fused Objectives for Face Verification**. Sanchit Gupta, Vishakha Agrawal, Pratishtha Jaiswal, and Ananya Jain. Accepted for presentation at ICISS 2026. [Code](https://github.com/cssanchit/face-recognition-transfer-attacks).
+- **FaceSM: Improving Transferable Adversarial Attacks via Source-Separated and Mirror-Fused Objectives for Face Verification**. Accepted for presentation at ICISS 2026. [Code](https://github.com/cssanchit/face-recognition-transfer-attacks).
 
 - **ImageNet-LC: A Benchmark for Object-Centric Robustness Under Localized Corruptions**. ICPR 2026. https://link.springer.com/chapter/10.1007/978-3-032-31397-3_26
 - **REMEDII: Robust Malware Detection with Iterative and Intelligent Adversarial Training**. ICISS 2024. https://dl.acm.org/doi/10.1007/978-3-031-80020-7_14
