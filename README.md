@@ -1,16 +1,27 @@
+<div align="center">
+
 # Sanchit Gupta
 
 **Machine Learning Security · Adversarial Robustness · Computer Vision**
 
-I work on machine learning security, malware detection, and computer vision
-robustness. My research focuses on building and evaluating systems under
-realistic adversarial and corrupted conditions.
+[Email](mailto:cs.sanchit@gmail.com) · [GitHub](https://github.com/cssanchit) · [Research & publications](#featured-research)
 
-[Featured research](#featured-research) · [Publications](#selected-publications) · [Research code](#research-code) · [Education](#education)
+</div>
+
+I study how machine learning systems behave under adversarial attacks and visual
+corruptions, and how to make them more robust. My work spans face verification,
+malware detection, and computer vision benchmarks, with code and datasets that
+support further research.
+
+**Contact:** [cs.sanchit@gmail.com](mailto:cs.sanchit@gmail.com)
+
+[Featured research](#featured-research) · [Research code & data](#research-code--data) · [Publications](#selected-publications) · [Education](#education)
+
+---
 
 ## Featured Research
 
-### FaceSM
+### FaceSM · Transferable Attacks on Face Verification
 
 **Improving Transferable Adversarial Attacks via Source-Separated and Mirror-Fused Objectives for Face Verification**
 
@@ -23,7 +34,7 @@ iterative attacks.
 
 [Code](https://github.com/cssanchit/face-recognition-transfer-attacks) · Paper link forthcoming
 
-### ImageNet-LC
+### ImageNet-LC · Object-Centric Robustness
 
 **A Benchmark for Object-Centric Robustness Under Localized Corruptions**
 
@@ -34,7 +45,7 @@ and applying corruptions within those regions of interest.
 
 [Paper](https://link.springer.com/chapter/10.1007/978-3-032-31397-3_26) · [Official code](https://github.com/muskanny/ImageNet-LC) · [Dataset](https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc) · [Repository pointer](https://github.com/cssanchit/ImageNet-LC)
 
-### REMEDII
+### REMEDII · Adversarial Malware Detection
 
 **Robust Malware Detection with Iterative and Intelligent Adversarial Training**
 
@@ -45,15 +56,13 @@ examples and iterative adversarial training.
 
 [Paper](https://dl.acm.org/doi/10.1007/978-3-031-80020-7_14) · [Code](https://github.com/cssanchit/REMEDII-Malware-Detection)
 
-## Research Code
+## Research Code & Data
 
-### Face Recognition Transfer Attacks
-
-A shared codebase for CNN-based face-verification transfer attacks, with usage
-instructions, original paper references, adaptation notes, and contributor
-credits. Designed for researchers and students to inspect, reuse, and extend.
-
-[Explore the repository](https://github.com/cssanchit/face-recognition-transfer-attacks)
+| Resource | What you can explore | Links |
+| --- | --- | --- |
+| **Face Recognition Transfer Attacks / FaceSM** | Transfer attacks for face verification, objective functions, usage instructions, and contributor credits | [Code](https://github.com/cssanchit/face-recognition-transfer-attacks) |
+| **ImageNet-LC** | Localized image corruptions for object-centric robustness evaluation | [Official code](https://github.com/muskanny/ImageNet-LC) · [Dataset](https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc) |
+| **REMEDII** | Malware detection with iterative adversarial training | [Code](https://github.com/cssanchit/REMEDII-Malware-Detection) |
 
 ## Selected Publications
 
@@ -93,6 +102,9 @@ credits. Designed for researchers and students to inspect, reuse, and extend.
 - **M.Tech, Computer Science and Engineering** — Indian Institute of Technology Delhi (IIT Delhi)
 - **B.Tech, Computer Science and Engineering** — National Institute of Technology Hamirpur (NIT Hamirpur)
 
-## Find Me
+## Contact
+
+For research discussions and questions about my projects, reach me at
+**[cs.sanchit@gmail.com](mailto:cs.sanchit@gmail.com)**.
 
 [GitHub](https://github.com/cssanchit) · [ImageNet-LC dataset on Kaggle](https://www.kaggle.com/datasets/sanchitgupta10/imagenet-pc)
